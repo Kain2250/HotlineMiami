@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TestDHorker.unity
+    guid: 33a861a30f0f64f84837fcb94fa832cd
+  - enabled: 1
+    path: Assets/Scenes/Game.Level.00.unity
+    guid: 82836a3171b0574459a2bcc91db2d58c
+  - enabled: 1
+    path: Assets/Scenes/Test_player.unity
+    guid: cb88203d1e2514a2d9a1b91003c57513
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 488fddb24168f3d478ff5bb9c34409b6
   m_configObjects: {}
